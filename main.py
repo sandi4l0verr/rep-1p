@@ -1,3 +1,3 @@
-nombre="pamela"
-apellido="cabrera"
-print ("vivan los gatos y la sandia")
+from flask import flask
+
+app = flask (__name__)
