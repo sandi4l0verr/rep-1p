@@ -1,3 +1,3 @@
 nombre="pamela"
 apellido="cabrera"
-print ("hola",nombre,apellido, "chau")
+print ("vivan los gatos y la sandia")
